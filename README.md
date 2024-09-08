@@ -12,8 +12,6 @@ The **Edu Indian** website is a platform designed to provide educational resourc
 
 - **HTML Structure**: You developed the structure of the website using semantic HTML, ensuring that content is well-organized and accessible.
 - **CSS Design**: You implemented the styling, focusing on layout, typography, color schemes, and responsive design to make the website visually appealing and mobile-friendly.
-- **JavaScript Functionality**: You added interactive elements like navigation, dynamic content loading, and other client-side functionality to enhance user experience.
-- **User Interface Optimization**: Ensured that the UI is intuitive and easy to navigate for users of all levels.
 
 ## Technologies Used
 
